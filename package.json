@@ -1,0 +1,18 @@
+{
+  "name": "boy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-tesseract-ocr": "^2.0.0",
+    "unofficial-jisho-api": "^2.0.12",
+    "@iamtraction/google-translate": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
