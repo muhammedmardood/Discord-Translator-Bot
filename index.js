@@ -25,7 +25,7 @@ bot.on("message", msg => {
       msg.content.lastIndexOf("to ") +3
     );
     
-    if (msg.channel.name == "Enter Your Discord Channel Name Here") {
+    if (msg.channel.name == "translate") {
 
       switch (args[0]) {
         case "ping":
